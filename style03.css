@@ -1,0 +1,45 @@
+@charset "UTF-8";
+h1{text-align:center;}
+.card-container{
+    display:flex;
+    max-width: 550px;
+    height: 250px;
+    margin: 20px auto;
+}
+
+.card-img img{
+    width:100%;
+    height:100%;
+}
+.card-container01{
+    display:flex;
+    max-width: 480px;
+    height: 250px;
+    margin: 20px auto;
+}
+.card-img01 img{
+    width:100%;
+    height:100%;
+}
+.card-container02{
+    display:flex;
+    max-width: 630px;
+    height: 250px;
+    margin: 20px auto;
+}
+
+.card-img02 img{
+    width:100%;
+    height:100%;
+}
+.card-container03{
+    display:flex;
+    max-width: 650px;
+    height: 250px;
+    margin: 20px auto;
+}
+
+.card-img03 img{
+    width:100%;
+    height:100%;
+}
